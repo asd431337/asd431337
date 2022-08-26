@@ -2,7 +2,7 @@
 - 👀 I’m interested in making small projects in python/web dev
 - 🌱 I’m currently learning python /html & css
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ivanbojid4rov@gmail.com or via discord Kaneki#1909
+- 📫 How to reach me ivanbojid4rov@gmail.com or via discord Emma#3755
 
 <!---
 asd431337/asd431337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
